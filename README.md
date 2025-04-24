@@ -16,8 +16,6 @@ git clone https://github.com/R-S-Nithesh/SARA.git && cd SARA && sudo bash instal
 
 [![asciicast](https://asciinema.org/a/604490.svg)](https://asciinema.org/a/604490)
 
-### Author
-Instagram [@iqbalmh18](https://instagram.com/iqbalmh18)
 
 ### Credit's
 Copyright © 2021 by [Termux Hackers ID](https://github.com/termuxhackers-id)
